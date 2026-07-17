@@ -5,8 +5,10 @@
 	(uuid "4acf659f-9a71-4c65-9a35-200f85dee588")
 	(paper "A4")
 	(title_block
+		(title "Fugu2")
 		(date "2026-07-17")
 		(rev "v2.4")
+		(company "Fabian (gh@fabi.me), Vadym Vikulin (vadym.vikulin@gmail.com)")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Socket"

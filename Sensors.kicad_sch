@@ -5,8 +5,10 @@
 	(uuid "5a0e434f-6301-4fd0-a330-e46201a3f862")
 	(paper "A4")
 	(title_block
+		(title "Fugu2")
 		(date "2026-07-17")
 		(rev "v2.4")
+		(company "Fabian (gh@fabi.me), Vadym Vikulin (vadym.vikulin@gmail.com)")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TLV172IDCK"

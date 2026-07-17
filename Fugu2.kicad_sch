@@ -5,8 +5,10 @@
 	(uuid "e6692049-eaa1-423b-b1ac-05fb6d0f1fc2")
 	(paper "A4")
 	(title_block
+		(title "Fugu2")
 		(date "2026-07-17")
 		(rev "v2.4")
+		(company "Fabian (gh@fabi.me), Vadym Vikulin (vadym.vikulin@gmail.com)")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Socket"
@@ -3853,7 +3855,7 @@
 	)
 	(text "TODO\n- use 2p fuses?\n- extension header 12V, 3.3V, i2c, io pins, SPI?\n   -> UEXT connector (SPI, i2c, UART)\n- LCD and buttons?\n- replace Cin 10u with 4.7u\n- external temp\n"
 		(exclude_from_sim no)
-		(at 179.07 181.61 0)
+		(at 176.784 164.592 0)
 		(effects
 			(font
 				(size 1.27 1.27)

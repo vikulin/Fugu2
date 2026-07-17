@@ -8,8 +8,10 @@
 	)
 	(paper "A5")
 	(title_block
+		(title "Fugu2")
 		(date "2026-07-17")
 		(rev "v2.4")
+		(company "Fabian (gh@fabi.me), Vadym Vikulin (vadym.vikulin@gmail.com)")
 		(comment 4 "AISLER Project ID: ETPZASDE")
 	)
 	(layers
@@ -9261,7 +9263,6 @@
 		(path "/2d287cf3-2750-462b-9179-706ea8653260/73f242a8-aaac-4814-a956-e7664050f99b")
 		(sheetname "/uC/")
 		(sheetfile "uC.kicad_sch")
-		(zone_connect 2)
 		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line

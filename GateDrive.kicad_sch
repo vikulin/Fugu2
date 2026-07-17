@@ -5,8 +5,10 @@
 	(uuid "d426b5fd-9eda-45f6-9dd4-eb0f9c2d7619")
 	(paper "A4")
 	(title_block
+		(title "Fugu2")
 		(date "2026-07-17")
 		(rev "v2.4")
+		(company "Fabian (gh@fabi.me), Vadym Vikulin (vadym.vikulin@gmail.com)")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint_Probe"
